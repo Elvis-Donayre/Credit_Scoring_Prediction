@@ -126,7 +126,7 @@ Puedes probar el modelo de forma interactiva a través de una aplicación Stream
 
 ### Acceso online:
 La demo ya está desplegada y disponible en Streamlit Cloud. Puedes acceder directamente sin necesidad de instalación local:
-[https://credit-scoring-demo.streamlit.app](https://credit-scoring-demo.streamlit.app)
+[https://credit-scoring-demo.streamlit.app](https://credit-scoring-demo-elvis.streamlit.app)
 
 Esta versión en la nube permite probar el modelo instantáneamente desde cualquier dispositivo con acceso a internet.
 
